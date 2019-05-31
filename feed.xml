@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TDF Noticias</title>
+    <description>Las noticias más importantes de la provincia</description>
+    <link>https://tdfnoticias.com/</link>
+    <atom:link href="https://tdfnoticias.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 30 May 2019 21:25:37 -0300</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 21:25:37 -0300</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>TDF Noticias reformado</title>
+        <description>&lt;h2 id=&quot;hasta-hace-poco&quot;&gt;Hasta hace poco&lt;/h2&gt;
+&lt;p&gt;La gente que sigue el sitio y sus redes (Facebook y Twitter), sabrá que es un recopilatorio de las noticias de diversas webs locales. Siempre publicando un extracto de la nota y un link al sitio original, donde se podía leer la noticia completa.&lt;/p&gt;
+
+&lt;h2 id=&quot;cómo-se-mantenía-el-sitio&quot;&gt;Cómo se mantenía el sitio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TDF Noticias&lt;/strong&gt; se mantenía por esfuerzo de los administradores. No teníamos publicidad (las dos que aparecían eran propias). El dinero para el hosting, internet y programador, venía de nuestros bolsillos y no por ingresos del sitio.&lt;/p&gt;
+
+&lt;h2 id=&quot;nueva-etapa&quot;&gt;Nueva etapa&lt;/h2&gt;
+&lt;p&gt;Debido a las dificultades económicas producto de las malas prácticas de este Gobierno, hemos trabajado con el programador para encontrar una alternativa.&lt;/p&gt;
+
+&lt;p&gt;Ya que lo que nos importa es informar, mantendremos la publicación en las redes sociales, pero los links expuestos irán directamente a sus sitios originales, sin pasar por &lt;strong&gt;TDF Noticias&lt;/strong&gt;. Tendremos este sitio, a modo de blog, para publicar editoriales como esta.&lt;/p&gt;
+
+&lt;p&gt;Este formato nos ahorra el hosting, gracias al programador que encontró una buena alternativa gratis y dentro de una plataforma estable. Lamentablemente, las notas publicadas hasta la puesta en marcha de este nuevo sitio, serán inaccesibles.&lt;/p&gt;
+
+&lt;p&gt;Agradecemos a &lt;a href=&quot;https://ajpen.com.ar&quot;&gt;AJPEN Sistemas&lt;/a&gt; por siempre estar a nuestra disposición y colaborar con nuevas soluciones.&lt;/p&gt;
+
+&lt;p&gt;Es probable que en un futuro, con cambio de políticas económicas y/o con nuevos proyectos, volvamos a tener un sitio con archivo de noticias. Mientras tanto, los invitamos a seguirnos en &lt;a href=&quot;https://facebook.com/tdfnoticias&quot;&gt;Facebook&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/tierradelfuego&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Muchas gracias.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 May 2019 00:00:00 -0300</pubDate>
+        <link>https://tdfnoticias.com/2019/tdf-noticias-reformado/</link>
+        <guid isPermaLink="true">https://tdfnoticias.com/2019/tdf-noticias-reformado/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
